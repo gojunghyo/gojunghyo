@@ -5,3 +5,7 @@
 개인블로그 [Link](https://blog.naver.com/gojgho "my blog link") 
 
 
+
+STAT
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gojunghyo)](https://github.com/anuraghazra/github-readme-stats)
