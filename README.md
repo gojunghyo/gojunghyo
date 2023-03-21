@@ -31,7 +31,7 @@ TOP LANG
 
 ## My Blog
 
-- 개인블로그 [Link](https://blog.naver.com/gojgho "my blog link") 
+- ✨ Blog 개인블로그 [Link](https://blog.naver.com/gojgho "my blog link") 
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
