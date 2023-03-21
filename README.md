@@ -14,8 +14,9 @@ STAT
 ## My Blog
 
 - ✨ Blog 개인블로그 [Link](https://blog.naver.com/gojgho "my blog link") 
-> TEST 1
-
+> 
+> This is my blog where I review what I have studied.
+>
 
 
 ## Tech
