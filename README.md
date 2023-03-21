@@ -1,4 +1,5 @@
 
 MY BLOG
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
-[BLOG](https://blog.naver.com/gojgho, "my blog link") 
+개인블로그 [MY BLOG](https://blog.naver.com/gojgho, "my blog link") 
