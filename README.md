@@ -43,7 +43,7 @@ Plugins from my GitHub repository
 | MY-Project-two | [plugins/googleanalytics/README.md][PlGa] |
 
 
-## Installation
+## Test Installation
 
 Use Another my repository requires [Node.js](https://nodejs.org/) v10+ to run.
 
@@ -64,7 +64,7 @@ NODE_ENV=production node app
 
 
 
-## Development
+## Test Development
 
 Want to contribute? Great!
 
@@ -91,7 +91,7 @@ gulp watch
 karma test
 ```
 
-#### Building for source
+#### Test Building for source
 
 For production release:
 
@@ -105,7 +105,7 @@ Generating pre-built zip archives for distribution:
 gulp build dist --prod
 ```
 
-## Docker
+## Test Docker
 
 Dillinger is very easy to install and deploy in a Docker container.
 
