@@ -16,19 +16,6 @@
 > This is my blog where I review what I have studied.
 
 
-## Tech
-
-Dillinger uses a number of open source projects to work properly:
-
-- [JAVA] - I most spoken language
-- [SPRING BOOT] - Frequently used frameworks
-- [MYSQL] - Use as a relational db
-- [MSA Arcitecture] - recently interested
-- [CPP] - Use for coding test
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Plugins
 
 Plugins from my GitHub repository
@@ -41,6 +28,19 @@ Plugins from my GitHub repository
 | MSA | [plugins/onedrive/README.md][PlOd] |
 | MY-Project-one | [plugins/medium/README.md][PlMe] |
 | MY-Project-two | [plugins/googleanalytics/README.md][PlGa] |
+
+## Tech
+
+Dillinger uses a number of open source projects to work properly:
+
+- [JAVA] - I most spoken language
+- [SPRING BOOT] - Frequently used frameworks
+- [MYSQL] - Use as a relational db
+- [MSA Arcitecture] - recently interested
+- [CPP] - Use for coding test
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Test Installation
