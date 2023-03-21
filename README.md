@@ -4,9 +4,8 @@
 
 - ✨Let me introduce myself ✨
 
-STAT
-
-![STAT](https://github-readme-stats.vercel.app/api?username=gojunghyo&show_icons=true&theme=cobalt)
+# MY STAT
+- ![STAT](https://github-readme-stats.vercel.app/api?username=gojunghyo&show_icons=true&theme=cobalt)
 
 
 
@@ -14,9 +13,9 @@ STAT
 ## My Blog
 
 - ✨ Blog 개인블로그 [Link](https://blog.naver.com/gojgho "my blog link") 
-> 
+> .
 > This is my blog where I review what I have studied.
->
+> .
 
 
 ## Tech
@@ -33,12 +32,6 @@ Dillinger uses a number of open source projects to work properly:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-to Markdown converter
-- [jQuery] - duh
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ## Installation
 
