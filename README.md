@@ -8,7 +8,7 @@
 
 STAT
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gojunghyo)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=gojunghyo&show_icons=true&theme=radical)
 
 
 TOP LANG
