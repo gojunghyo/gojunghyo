@@ -13,9 +13,7 @@
 ## My Blog
 
 - ✨ Blog 개인블로그 [Link](https://blog.naver.com/gojgho "my blog link") 
-> .
 > This is my blog where I review what I have studied.
-> .
 
 
 ## Tech
@@ -28,9 +26,21 @@ Dillinger uses a number of open source projects to work properly:
 - [MSA Arcitecture] - recently interested
 - [CPP] - Use for coding test
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## Plugins
+
+Plugins from my GitHub repository
+
+| Plugin | README |
+| ------ | ------ |
+| 백준 | [plugins/dropbox/README.md][PlDb] |
+| 프로그래머스 | [plugins/github/README.md][PlGh] |
+| 코딜리티 | [plugins/googledrive/README.md][PlGd] |
+| MSA | [plugins/onedrive/README.md][PlOd] |
+| MY-Project-one | [plugins/medium/README.md][PlMe] |
+| MY-Project-two | [plugins/googleanalytics/README.md][PlGa] |
 
 
 ## Installation
@@ -52,18 +62,7 @@ npm install --production
 NODE_ENV=production node app
 ```
 
-## Plugins
 
-Plugins from my GitHub repository
-
-| Plugin | README |
-| ------ | ------ |
-| 백준 | [plugins/dropbox/README.md][PlDb] |
-| 프로그래머스 | [plugins/github/README.md][PlGh] |
-| 코딜리티 | [plugins/googledrive/README.md][PlGd] |
-| MSA | [plugins/onedrive/README.md][PlOd] |
-| MY-Project-one | [plugins/medium/README.md][PlMe] |
-| MY-Project-two | [plugins/googleanalytics/README.md][PlGa] |
 
 ## Development
 
