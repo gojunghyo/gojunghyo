@@ -22,7 +22,7 @@ Plugins from my GitHub repository
 
 | Plugin | README |
 | ------ | ------ |
-| 백준 | [/baekjoon/README.md][PlDb] |
+| 백준 | [/baekjoon/README.md][BJ] |
 | 프로그래머스 | [plugins/github/README.md][PlGh] |
 | 코딜리티 | [plugins/googledrive/README.md][PlGd] |
 | MSA | [plugins/onedrive/README.md][PlOd] |
@@ -149,7 +149,7 @@ your preferred browser.
    [AngularJS]: <http://angularjs.org>
    [Gulp]: <http://gulpjs.com>
 
-   [PlBJ]: <https://github.com/gojunghyo/baekjoon/README.md>
+   [BJ]: <https://github.com/gojunghyo/baekjoon/README.md>
    [PlGh]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/github/README.md>
    [PlGd]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/googledrive/README.md>
    [PlOd]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/onedrive/README.md>
