@@ -23,32 +23,24 @@ STAT
 
 - ✨ Blog 개인블로그 [Link](https://blog.naver.com/gojgho "my blog link") 
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+INPUT TEXT[df1]
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> TEST 1
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+
 
 ## Tech
 
 Dillinger uses a number of open source projects to work properly:
 
-- [JAVA] - HTML enhanced for web apps!
-- [SPRING BOOT] - awesome web-based text editor
-- [MYSQL] - Markdown parser done right. Fast and easy to extend.
-- [MSA Arcitecture] - great UI boilerplate for modern web apps
-- TOP LANG
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+- [JAVA] - I most spoken language
+- [SPRING BOOT] - Frequently used frameworks
+- [MYSQL] - Use as a relational db
+- [MSA Arcitecture] - recently interested
+- [CPP] - Use for coding test
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
