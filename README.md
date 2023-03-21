@@ -149,7 +149,7 @@ your preferred browser.
    [AngularJS]: <http://angularjs.org>
    [Gulp]: <http://gulpjs.com>
 
-   [BJ]: <https://github.com/gojunghyo/baekjoon/README.md>
+   [BJ]: <https://github.com/gojunghyo/baekjoon/blob/main//README.md>
    [PlGh]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/github/README.md>
    [PlGd]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/googledrive/README.md>
    [PlOd]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/onedrive/README.md>
