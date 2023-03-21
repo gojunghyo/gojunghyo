@@ -8,7 +8,7 @@
 
 STAT
 
-![STAT](https://github-readme-stats.vercel.app/api?username=gojunghyo&show_icons=true&theme=highcontrast)
+![STAT](https://github-readme-stats.vercel.app/api?username=gojunghyo&show_icons=true&theme=cobalt)
 
 
 TOP LANG
