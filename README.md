@@ -17,10 +17,6 @@ STAT
 ![STAT](https://github-readme-stats.vercel.app/api?username=gojunghyo&show_icons=true&theme=cobalt)
 
 
-TOP LANG
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## My Blog
@@ -47,14 +43,15 @@ watch the results in the right.
 
 Dillinger uses a number of open source projects to work properly:
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
+- [JAVA] - HTML enhanced for web apps!
+- [SPRING BOOT] - awesome web-based text editor
+- [MYSQL] - Markdown parser done right. Fast and easy to extend.
+- [MSA Arcitecture] - great UI boilerplate for modern web apps
+- TOP LANG
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 to Markdown converter
 - [jQuery] - duh
 
