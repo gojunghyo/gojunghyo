@@ -39,9 +39,6 @@ Dillinger uses a number of open source projects to work properly:
 - [MSA Arcitecture] - recently interested
 - [CPP] - Use for coding test
 
-[![Top Langs](https://github-gojunghyo.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/gojunghyo/gojunghyo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/anuraghazra/gojunghyo)
 
