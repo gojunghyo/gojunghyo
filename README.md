@@ -40,7 +40,7 @@ Dillinger uses a number of open source projects to work properly:
 - [CPP] - Use for coding test
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/anuraghazra/gojunghyo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/gojunghyo/gojunghyo)
 
 ## Test Installation
 
