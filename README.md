@@ -23,8 +23,8 @@ Plugins from my GitHub repository
 | Plugin | README |
 | ------ | ------ |
 | 백준 | [baekjoon/README.md][BJ] |
-| 프로그래머스 | [plugins/github/README.md][PlGh] |
-| 코딜리티 | [plugins/googledrive/README.md][PlGd] |
+| 프로그래머스 | [programmers/README.md][programmers] |
+| 코딜리티 | [codility/README.md][codility] |
 | MSA | [plugins/onedrive/README.md][PlOd] |
 | MY-Project-one | [plugins/medium/README.md][PlMe] |
 | MY-Project-two | [plugins/googleanalytics/README.md][PlGa] |
@@ -150,8 +150,8 @@ your preferred browser.
    [Gulp]: <http://gulpjs.com>
 
    [BJ]: <https://github.com/gojunghyo/baekjoon/blob/main//README.md>
-   [PlGh]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/googledrive/README.md>
+   [programmers]: <https://github.com/gojunghyo/programmers/blob/main/README.md>
+   [codility]: <https://github.com/gojunghyo/codility/blob/main/README.md>
    [PlOd]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/gojunghyo/dillinger/blob/master/plugins/googleanalytics/README.md>
