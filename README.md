@@ -21,7 +21,7 @@ Plugins from my GitHub repository
 
 | Plugin | README |
 | ------ | ------ |
-| 백준 | [baekjoon/][BJ] |
+| 백준 | [baekjoon/README.md][BJ] |
 | 프로그래머스 | [programmers/README.md][programmers] |
 | 코딜리티 | [codility/README.md][codility] |
 | MSA | [plugins/onedrive/README.md][PlOd] |
@@ -147,9 +147,9 @@ your preferred browser.
    [AngularJS]: <http://angularjs.org>
    [Gulp]: <http://gulpjs.com>
 
-   [BJ]: <https://github.com/gojunghyo/baekjoon/blob/main//README.md>
-   [programmers]: <https://github.com/gojunghyo/programmers/blob/main/README.md>
-   [codility]: <https://github.com/gojunghyo/codility/blob/main/README.md>
+   [BJ]: <https://github.com/gojunghyo/baekjoon/blob/main>
+   [programmers]: <https://github.com/gojunghyo/programmers/blob/main>
+   [codility]: <https://github.com/gojunghyo/codility/blob/main>
    [PlOd]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/gojunghyo/dillinger/blob/master/plugins/googleanalytics/README.md>
