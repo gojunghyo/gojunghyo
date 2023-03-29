@@ -21,7 +21,7 @@ Plugins from my GitHub repository
 
 | Plugin | README |
 | ------ | ------ |
-| 백준 | [baekjoon/README.md][BJ] |
+| 백준 | [baekjoon/][BJ] |
 | 프로그래머스 | [programmers/README.md][programmers] |
 | 코딜리티 | [codility/README.md][codility] |
 | MSA | [plugins/onedrive/README.md][PlOd] |
