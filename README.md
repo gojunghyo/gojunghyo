@@ -7,7 +7,7 @@
 # MY STAT
 - ![STAT](https://github-readme-stats.vercel.app/api?username=gojunghyo&show_icons=true&theme=cobalt)
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,aws,vue,spring,git,kubernetes,docker,c++&perline=3&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,aws,vue,spring,git,kubernetes,docker,mysql&perline=3&theme=light)](https://skillicons.dev)
 
 ## My Blog
 
