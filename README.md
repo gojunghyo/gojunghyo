@@ -147,9 +147,9 @@ your preferred browser.
    [AngularJS]: <http://angularjs.org>
    [Gulp]: <http://gulpjs.com>
 
-   [BJ]: <https://github.com/gojunghyo/baekjoon/blob/main>
-   [programmers]: <https://github.com/gojunghyo/programmers/blob/main>
-   [codility]: <https://github.com/gojunghyo/codility/blob/main>
+   [BJ]: <https://github.com/gojunghyo/baekjoon>
+   [programmers]: <https://github.com/gojunghyo/programmers>
+   [codility]: <https://github.com/gojunghyo/codility>
    [PlOd]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/gojunghyo/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/gojunghyo/dillinger/blob/master/plugins/googleanalytics/README.md>
