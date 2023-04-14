@@ -65,6 +65,12 @@ IF you want push another branch
 git push -u origin develop_branch
 ```
 
+Error case 
+```
+case 1 -> error: remote origin already exists.
+          solve: git remote remove origin , next step -> git remote add origin https://github.com/../.git
+```
+
 
 ## Test Development
 
