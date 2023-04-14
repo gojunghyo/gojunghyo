@@ -155,5 +155,5 @@ your preferred browser.
    [programmers]: <https://github.com/gojunghyo/programmers>
    [codility]: <https://github.com/gojunghyo/codility>
    [msa]: <https://github.com/gojunghyo/msa>
-   [kotlin]: <https://github.com/gojunghyo/kotlin>
+   [kotlin]: <https://github.com/gojunghyo/kotlin-spring-boot-study>
    [PlGa]: <https://github.com/gojunghyo/dillinger/blob/master/plugins/googleanalytics/README.md>
