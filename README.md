@@ -41,7 +41,7 @@ Dillinger uses a number of open source projects to work properly:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/gojunghyo/gojunghyo)
 
-## git repository upload forder
+## Git repository upload forder
 
 First setting your local computer
 
@@ -49,13 +49,15 @@ First setting your local computer
 cd myFolder // change directory your folderName 
 git init
 git remote add origin https://github.com/gojunghyo/myFolder.git
+git add. //your folder and file all upload to git repository
+git commit -m "init message"
 ```
 
-For production environments...
+Last step git push 
 
 ```sh
-npm install --production
-NODE_ENV=production node app
+github website new repository myFolder then 
+git push -u origin
 ```
 
 
