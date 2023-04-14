@@ -60,6 +60,10 @@ github website new repository myFolder then
 git push -u origin
 ```
 
+IF you want push another branch 
+```
+git push -u origin develop_branch
+```
 
 
 ## Test Development
