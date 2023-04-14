@@ -49,7 +49,7 @@ First setting your local computer
 cd myFolder // change directory your folderName 
 git init
 git remote add origin https://github.com/gojunghyo/myFolder.git
-git add. //your folder and file all upload to git repository
+git add . //your folder and file all upload to git repository
 git commit -m "init message"
 ```
 
