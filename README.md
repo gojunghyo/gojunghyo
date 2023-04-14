@@ -41,16 +41,14 @@ Dillinger uses a number of open source projects to work properly:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/gojunghyo/gojunghyo)
 
-## Test Installation
+## git repository upload forder
 
-Use Another my repository requires [Node.js](https://nodejs.org/) v10+ to run.
-
-Install the dependencies and devDependencies and start the server.
+First setting your local computer
 
 ```sh
-cd dillinger
-npm i
-node app
+cd myFolder // change directory your folderName 
+git init
+git remote add origin https://github.com/gojunghyo/myFolder.git
 ```
 
 For production environments...
