@@ -51,6 +51,7 @@ git init
 git remote add origin https://github.com/gojunghyo/myFolder.git
 git add . //your folder and file all upload to git repository
 git commit -m "init message"
+git push
 ```
 
 Last step git push 
