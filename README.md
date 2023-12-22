@@ -21,6 +21,7 @@ Plugins from my GitHub repository
 
 | Plugin | README |
 | ------ | ------ |
+| 이커머스 사이드 프로젝트 | [gojgho-ecommerce-service/README.md][gojgho-ecommerce-service] |
 | MSA | [msa/README.md][msa] |
 | Kotlin | [kotlin/README.md][kotlin] |
 | 백준 | [baekjoon/README.md][BJ] |
@@ -161,6 +162,7 @@ your preferred browser.
    [BJ]: <https://github.com/gojunghyo/baekjoon>
    [programmers]: <https://github.com/gojunghyo/programmers>
    [codility]: <https://github.com/gojunghyo/codility>
+   [gojgho-ecommerce-service]: <https://github.com/gojunghyo/gojgho-ecommerce-service>
    [msa]: <https://github.com/gojunghyo/msa>
    [kotlin]: <https://github.com/gojunghyo/kotlin-spring-boot-study>
    [PlGa]: <https://github.com/gojunghyo/dillinger/blob/master/plugins/googleanalytics/README.md>
