@@ -74,31 +74,14 @@ case 1 -> error: remote origin already exists.
 ```
 
 
-## Test Development
-
-Want to contribute? Great!
-
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
-
-Open your favorite Terminal and run these commands.
-
-First Tab:
-
-```sh
-node app
+## Git ignore 등록
 ```
-
-Second Tab:
-
-```sh
-gulp watch
-```
-
-(optional) Third:
-
-```sh
-karma test
+git .ignore 파일 생성후 아래 사이트 접근한 내용을 write
+1. https://www.toptal.com/developers/gitignore 사이트 접근후( java, gradle, intelij, kotlin ) 입력후 create
+2. git 캐시 삭제
+3. git rm -r --cached .
+4. git add .
+5. git commit -m "removed cached"
 ```
 
 #### Test Building for source
