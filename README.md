@@ -21,7 +21,7 @@ Plugins from my GitHub repository
 
 | Plugin | README |
 | ------ | ------ |
-| Kotlin | [kotlin/README.md][kotlin] |
+| Design pattern | todo |
 | 백준 | [baekjoon/README.md][BJ] |
 | 프로그래머스 | [programmers/README.md][programmers] |
 | 코딜리티 | [codility/README.md][codility] |
