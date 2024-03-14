@@ -21,13 +21,10 @@ Plugins from my GitHub repository
 
 | Plugin | README |
 | ------ | ------ |
-| 이커머스 사이드 프로젝트 | [gojgho-ecommerce-service/README.md][gojgho-ecommerce-service] |
-| MSA | [msa/README.md][msa] |
 | Kotlin | [kotlin/README.md][kotlin] |
 | 백준 | [baekjoon/README.md][BJ] |
 | 프로그래머스 | [programmers/README.md][programmers] |
 | 코딜리티 | [codility/README.md][codility] |
-| MY-Project-two | [plugins/googleanalytics/README.md][PlGa] |
 
 ## Tech
 
