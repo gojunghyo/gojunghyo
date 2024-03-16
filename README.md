@@ -18,9 +18,10 @@ Plugins from my GitHub repository
 | Plugin | README |
 | ------ | ------ |
 | Design patterns | [design-pattern-study/README.md][design-patterns] |
+| Side Project | [myhome-library/README.md][library] |
 | 백준 | [baekjoon/README.md][BJ] |
 | 프로그래머스 | [programmers/README.md][programmers] |
-| 코딜리티 | [codility/README.md][codility] |
+
 
 ## Tech
 
@@ -96,8 +97,7 @@ git .ignore 파일 생성후 아래 사이트 접근한 내용을 write
 
    [BJ]: <https://github.com/gojunghyo/baekjoon>
    [programmers]: <https://github.com/gojunghyo/programmers>
-   [codility]: <https://github.com/gojunghyo/codility>
+   [library]: <https://github.com/gojunghyo/myhome-library>
    [gojgho-ecommerce-service]: <https://github.com/gojunghyo/gojgho-ecommerce-service>
-   [msa]: <https://github.com/gojunghyo/msa>
    [design-patterns]: <https://github.com/gojunghyo/design-pattern-study>
    [PlGa]: <https://github.com/gojunghyo/dillinger/blob/master/plugins/googleanalytics/README.md>
