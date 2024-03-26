@@ -1,82 +1,37 @@
-✨Let me introduce myself ✨
 
-# MY STAT
+# README.md
 - ![STAT](https://github-readme-stats.vercel.app/api?username=gojunghyo&show_icons=true&theme=cobalt)
 
 - [![My Skills](https://skillicons.dev/icons?i=java,kotlin,aws,vue,spring,git,kubernetes,docker,mysql&perline=3&theme=light)](https://skillicons.dev)
 
-## My Blog
+## Blog
 
-- ✨ Blog 개인블로그 [Link](https://blog.naver.com/gojgho "my blog link") 
-> This is my blog where I review what I have studied.
+- ✨ 마린봄이 블로그 [Link](https://blog.naver.com/gojgho "my blog link") 
+> 평일에 집에서 또는 주말에 카페에서 스터디한 내용을 블로그에 포스팅 하고있습니다.
 
 
-## Plugins
+## Repository
 
-Plugins from my GitHub repository
-
-| Plugin | README |
+| Description | README |
 | ------ | ------ |
-| Design patterns | [design-pattern-study/README.md][design-patterns] |
-| Side Project | [myhome-library/README.md][library] |
-| 백준 | [baekjoon/README.md][BJ] |
-| 프로그래머스 | [programmers/README.md][programmers] |
+| 디자인 패턴 | [design-pattern-study/README.md][design-patterns] |
+| 사이드 프로젝트 | [myhome-library/README.md][library] |
+| 코딩테스트 백준 | [baekjoon/README.md][BJ] |
 
 
-## Tech
+## 주 기술 스택
 
-Dillinger uses a number of open source projects to work properly:
-
-- [JAVA] - I most spoken language
-- [SPRING BOOT] - Frequently used frameworks
-- [MYSQL] - Use as a relational db
-- [MSA Arcitecture] - recently interested
-- [CPP] - Use for coding test
-
+- [Java/Kotlin] - Strong
+- [Spring boot] - Strong
+- [MYSQL] - Strong
+- [Docker] - Knowledgeable
+- [Jenkins] - Knowledgeable
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojunghyo&langs_count=8)](https://github.com/gojunghyo/gojunghyo)
 
-## Git repository upload forder
-
-First setting your local computer
-
-```sh
-cd myFolder // change directory your folderName 
-git init
-git remote add origin https://github.com/gojunghyo/myFolder.git
-git add . //your folder and file all upload to git repository
-git commit -m "init message"
-git push
-```
-
-Last step git push 
-
-```sh
-github website new repository myFolder then 
-git push -u origin
-```
-
-IF you want push another branch 
-```
-git push -u origin develop_branch
-```
-
-Error case 
-```
-case 1 -> error: remote origin already exists.
-          solve: git remote remove origin , next step -> git remote add origin https://github.com/../.git
-```
 
 
-## Git ignore 등록
-```
-git .ignore 파일 생성후 아래 사이트 접근한 내용을 write
-1. https://www.toptal.com/developers/gitignore 사이트 접근후( java, gradle, intelij, kotlin ) 입력후 create
-2. git 캐시 삭제
-3. git rm -r --cached .
-4. git add .
-5. git commit -m "removed cached"
-```
+## 감사합니다.
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
