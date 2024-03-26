@@ -7,7 +7,7 @@
 ## Blog
 
 - ✨ 마린봄이 블로그 [Link](https://blog.naver.com/gojgho "my blog link") 
-> 평일에 집에서 또는 주말에 카페에서 스터디한 내용을 블로그에 포스팅 하고있습니다.
+> 평일에 집 또는 주말에 카페에서 스터디한 내용을 블로그에 포스팅 하고있습니다.
 
 
 ## Repository
